@@ -1,0 +1,21 @@
+.navbar {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fcf8f2;
+    color: #4a3417;
+    padding-top: 100px !important;
+}
+
+.w3-brown {
+    background-color: #7A5844 !important;
+}
+
+.w3-bar .w3-bar-item {
+    padding: 12px 24px;
+}
